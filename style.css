@@ -27,6 +27,12 @@ header {
   font-size: 1.4rem;
   font-weight: bold;
 }
+.brand-name {
+  color : white;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1 px;
+}
 
 nav ul {
   list-style: none;
