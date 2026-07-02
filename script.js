@@ -1,1 +1,1 @@
-console.log("iTech Digital Solutions website loaded successfully!");
+console.log("ARC Kenya Website Loaded Successfully");
